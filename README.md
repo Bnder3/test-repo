@@ -1,2 +1,2 @@
 # test-repo
-this repository is for learning objectives
+This repository is for learning objectives
